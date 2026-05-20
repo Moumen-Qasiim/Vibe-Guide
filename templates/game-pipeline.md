@@ -37,3 +37,15 @@
 > 
 > Verified Code:
 > `[Insert Verified Code]`
+
+---
+
+## Step 4: The Documenter
+> The implementation and tests for `[System Name]` located at `[Insert Paths]` are complete, verified, and locked.
+> Act as a Senior Technical Writer. 
+> Generate `[Specify Artifact: e.g., a feature README.md / Game Design Document snippet]`.
+> Base the documentation strictly on the provided code. Explain the gameplay intent, the expected inputs/outputs, and the system dependencies. 
+> Output only the requested documentation artifacts. Do not output or modify the existing code.
+>
+> Verified Code & Tests:
+> `[Insert Code]`
