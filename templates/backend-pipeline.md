@@ -37,3 +37,15 @@
 > 
 > Verified Code:
 > `[Insert Verified Code]`
+
+---
+
+## Step 4: The Documenter
+> The implementation and tests for `[Service/Endpoint Name]` located at `[Insert Paths]` are complete, verified, and locked.
+> Act as a Senior Technical Writer. 
+> Generate `[Specify Artifact: e.g., an OpenAPI specification snippet / Architecture Decision Record / Markdown wiki]`.
+> Base the documentation strictly on the provided code. Explain the business logic, endpoint parameters, and data models. 
+> Output only the requested documentation artifacts. Do not output or modify the existing code.
+>
+> Verified Code & Tests:
+> `[Insert Code]`
