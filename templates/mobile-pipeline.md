@@ -37,3 +37,15 @@
 > 
 > Verified Code:
 > `[Insert Verified Code]`
+
+---
+
+## Step 4: The Documenter
+> The implementation and tests for `[Component Name]` located at `[Insert Paths]` are complete, verified, and locked.
+> Act as a Senior Technical Writer. 
+> Generate `[Specify Artifact: e.g., a feature README.md / Architecture Decision Record]`.
+> Base the documentation strictly on the provided code. Explain the business intent, the inputs/outputs, and how it integrates with the broader system. 
+> Output only the requested documentation artifacts. Do not output or modify the existing code.
+>
+> Verified Code & Tests:
+> `[Insert Code]`
